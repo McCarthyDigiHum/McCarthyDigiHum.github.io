@@ -32,16 +32,16 @@ But angel like, when I awoke,<br/>
 Shining through darkness, sweetly spoke<br/>
 &nbsp;&nbsp;Of cloudy skies and mountains bare;<br/>
 
-.ve-map 11.18,-27.77 2 basemaps-Esri_WorldPhysical marker right width=60%
-    - Q6395256
-    - Q1558
-    - Q513
-    - Q7296
+.ve-map 11.18,-27.77 2 basemaps-Esri_WorldPhysical marker right width=70%
+    - Q6395256 
+    - Q1558 
+    - Q513 
+    - Q7296 
     
-The dearest to a ==mountaineer=={Q513}<br/>
-&nbsp;&nbsp;Who, all life long has loved ==the snow=={Q6395256}<br/>
-That crowned his ==native summits=={Q7296} drear,<br/>
-&nbsp;&nbsp;⁠Better, than ==greenest plains=={Q1558} below.<br/>
+The dearest to a ==mountaineer=={flyto=Q513}<br/>
+&nbsp;&nbsp;Who, all life long has loved ==the snow=={flyto=Q6395256}<br/>
+That crowned his ==native summits=={flyto=Q7296} drear,<br/>
+&nbsp;&nbsp;⁠Better, than ==greenest plains=={flyto=Q1558} below.<br/>
 
 And voiceless, soulless, messenger<br/>
 &nbsp;&nbsp;Thy presence waked a thrilling tone<br/>
