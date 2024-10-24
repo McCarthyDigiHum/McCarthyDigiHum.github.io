@@ -9,11 +9,9 @@ O transient voyager of heaven!<br/>
 What adverse wind thy sail has driven<br/>
 &nbsp;&nbsp;To dungeons where a prisoner lies?
 
-The [common sunflower](Q171497) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds which are used in the production of cooking oil.
-
-<param ve-media right width=60%
+'image right width=60%
     -  wc:Dülmen,_Naturschutzgebiet_-Am_Enteborn-_--_2014_--_0202.jpg
-    -  wc:Forest_road_Slavne_2017_G8.jpg >
+    -  wc:Forest_road_Slavne_2017_G8.jpg '
     
 Methinks [the hands that shut the sun](Q8074) <br/>
 &nbsp;&nbsp;So sternly from this morning's brow<br/>
