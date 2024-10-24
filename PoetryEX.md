@@ -1,3 +1,5 @@
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 # To a Wreath of Snow
 ## by ==Emily Brontë=={Q80137}[^1]
 [^1]: From [The Poetry Foundation](https://www.poetryfoundation.org/poems/161908/to-a-wreath-of-snow)
