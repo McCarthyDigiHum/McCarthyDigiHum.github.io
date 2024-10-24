@@ -1,7 +1,7 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 # To a Wreath of Snow
-## by [Emily Brontë](Q80137)[^1]
+## by [Emily Brontë](Q80137) [^1]
 [^1]: From [The Poetry Foundation](https://www.poetryfoundation.org/poems/161908/to-a-wreath-of-snow)
 
 O transient voyager of heaven!<br/>
@@ -9,6 +9,7 @@ O transient voyager of heaven!<br/>
 What adverse wind thy sail has driven<br/>
 &nbsp;&nbsp;To dungeons where a prisoner lies?
 
+The [common sunflower](Q171497) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds which are used in the production of cooking oil.
 
 <param ve-media right width=60%
     -  wc:Dülmen,_Naturschutzgebiet_-Am_Enteborn-_--_2014_--_0202.jpg
@@ -26,7 +27,7 @@ For all the suns that ever shone<br/>
 
 For many a week, and many a day<br/>
 &nbsp;&nbsp;My heart was weighed with sinking gloom<br/>
-When morning rose in [mourning grey](Q2450206)<br/>
+When morning rose in [mourning grey](Q2450206) <br/>
 &nbsp;&nbsp;And faintly lit my prison room<br/>
 
 But angel like, when I awoke,<br/>
