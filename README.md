@@ -1,2 +1,2 @@
 #visual essays
-[Poetry](
+[Poetry](https://github.com/McCarthyDigiHum/McCarthyDigiHum.github.io/tree/main/poetry)
